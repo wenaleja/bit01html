@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Wendy Carlos</title>
+    </head>
+    <body>
+        <h1>BIENVENIDOS</h1>
+        <hr>
+        <p>Hola a todos, un placer tenerlos aquí de ante mano, me presento,
+            mi nombre es Wendy Alejandra Carlos Muñoz, tengo 27 años, naci en 
+            Bogotá, estudie diseño gráfico profesional, lo culmine en el año 2019,
+            vivo con mi mamá, mi hermano y mi hijo.
+            Me gusta bailar, me encanta la comida, me fascina el dulce y me gusta mucho 
+            salir de viaje cuando se puede.
+        </p>
+        <hr>
+        <h2>Intereses</h2>
+        <ol>
+            <li>Bailar</li>
+            <li>Comer</li>
+            <li>fotografía</li>
+            <li>Viajar</li>
+            <li>Aprender nuevas cosas</li>
+        </ol>
+        <hr>
+        <h3>Aprenden conmigo hacer unos panqueque</h3>
+        <p>Necesitamos actitud, energía y preprar la comida con todo el amor</p>
+        <hr>
+        <h4>Ingredientes</h4>
+        <ul>
+            <li>1 banano</li>
+            <li>avena en hojuela</li>
+            <li>un poquitito de leche</li>
+            <li>canela</li>
+            <li>azucar o stevia</li>
+            <li>polvo para hornear</li>
+            <li>fruta que te guste puede ser banano,arandanos,fresa el que quieras</li>
+        </ul>
+        <hr>
+        #:information_desk_person: <h5>Preparación</h5>
+        <hr>
+        <p>Empezamos con una buena musiquita para que este agusto</p>
+        <a href="https://www.youtube.com/watch?v=5kwviIZZ5kE">Sugerencia</a>
+        <p>Luego licuamos la avena en hojuelas, luego de ello se me olvido el huevo en los ingredientes jajaja
+            bueno le echan el huevo, parten el banano en 2 luego le echa canela y azucar algusto y un poquitito de
+            polvo para hornear, ya luego le van echando de a poquita leche y la consistencia tiene que quedar espesa,
+            si le queda líquida le quedo mal ajajaja.
+
+            Bueno seguimos, en un sarten colocamos aceite no mucho lo dejamos calentar y con una cuchara onda como de sopa
+            echamos la mezcla que acabamos de hacer y antes que se le haga unos agujeritos le pone la fruta que a usted más 
+            le guste, esa fruta la tapa con la mezcla que se realizo cuando ya se hagan varios agujeritos es hora amigos ya
+            en serio es hora de voltearla a ojo mira que el otro lado no se le queme y listoooo.
+
+            quedan hechos sus panqueques ricos y deliciosos los pueden acompañar de miel para panqueques y un juguito o algo 
+            caliente lo que a ustede les guste.
+        </p>
+
+
+    </body>
+</html>
